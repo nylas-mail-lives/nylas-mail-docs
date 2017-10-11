@@ -1,1 +1,1 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+Welcome to the Nylas Mail Lives documentation. Please open an issue on GitHub if you can't find what you are looking for.
