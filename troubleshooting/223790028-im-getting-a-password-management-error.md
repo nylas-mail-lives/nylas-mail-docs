@@ -17,4 +17,4 @@ Windows has sever restrictions on the amount of data we can securely store. Sinc
 
 **Thanks, but I'm still getting the error**
 
-If you still need help, we recommend you [open an issue ](https://github.com/nylas-mail-lives/nylas-mail/issues/new) on GitHub with a detailed description of the issue you are experiencing.
+If you still need help, we recommend you [open an issue](https://github.com/nylas-mail-lives/nylas-mail/issues/new) on GitHub with a detailed description of the issue you are experiencing.
