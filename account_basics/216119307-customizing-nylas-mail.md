@@ -18,7 +18,7 @@ From the standard Preferences panel, you can change settings like the display mo
 
 Write your own plugin
 
-Nylas Mail is designed to make it easy for developers who are familiar with modern web technology to quickly and easily build plugins of their own. Take a look at the [Nylas Mail Github project documentation](https://github.com/nylas-mail-lives/nylas-mail-docs) for guides on how to get started.
+Nylas Mail is designed to make it easy for developers who are familiar with modern web technology to quickly and easily build plugins of their own. Take a look at the [Nylas Mail Github project documentation](https://nylas-mail-lives.gitbooks.io/nylas-mail-docs/) for guides on how to get started.
 
 Contribute to Nylas Mail Core
 
